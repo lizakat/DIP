@@ -155,6 +155,10 @@
 
 ![Результат третьей лабораторной](https://raw.githubusercontent.com/lizakat/DIP/main/5_out_lab3.jpg)
 
+## Результат четвертой лабораторной
+
+![Результат четвертой лабораторной](https://raw.githubusercontent.com/lizakat/DIP/main/5_out_lab4.jpg)
+
 ---
 
 # Запуск проекта
