@@ -157,7 +157,17 @@
 
 ## Результат четвертой лабораторной
 
-![Результат четвертой лабораторной](https://raw.githubusercontent.com/lizakat/DIP/main/5_out_lab4.jpg)
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/fdc8300d-ab03-44d2-9277-487306a2fd1f" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/6bc5facc-1b8d-43ed-9b7e-f4287734f4d9" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/dcbd562c-8926-440d-869f-d0d76cc83cb8" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/f54690e0-e204-446d-8202-99ffb5c74b1a" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ffff99c9-35cb-48cd-a724-93081368561b" />
+
+[(1, 0.9835071563720703, 'original'),
+ (0, 0.9999788999557495, 'original'),
+ (3, 0.999968409538269, 'rotated'),
+ (7, 0.9999988079071045, 'original'),
+ (8, 0.9999254941940308, 'original')]
 
 ---
 
